@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context="com.martinprograms.pieknyswiat.Kontakt">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="O APLIKACJI I AUTORZE \n Aplikacja zostsła stworzona przez Marcina Żakowskiego w ramach projektu stypendialnego Mazovia. Aplikacja przedstawia kilkadziesiąt wartych zobaczenia miejsca w Warszawie z łatwą możliwośią nawigowania do nich przez Google Maps oraz przyswajania informacji o nich na stronach wikipedii. \n\n\n\n\nKONTAKT\n e-mail: marcinzakowski@interia.pl \n e-mail: martinsprograms@gmail.com \n strona: www.strona.pl\n\n\n\n\n\n\n\n\n Zdjęcia w aplikacji należy traktować jako elementy na licencji CC BY-SA 3.0 a linkami do zdjęć jest jednocześnie link do WIKIPEDII, w razie niezamierzonego błędu proszę o kontakt"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:layout_margin="5dp"
+       />
+</LinearLayout>

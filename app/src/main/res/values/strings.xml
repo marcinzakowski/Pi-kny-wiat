@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Piękny Świat</string>
+    <string name="action_kontakt">O aplikacji i autorze</string>
+    <string name="o_aplikacji">Otwórz w aplikacji&#8230;</string>
+    <string name="desciption">zdjecie obiektu</string>
+    <string name="button1">Nawiguj</string>
+    <string name="text1">jakis tekst</string>
+    <string name="text2">OPIS:</string>
+    <string name="text3">WIKIPEDIA</string>
+    <string name="text4">Długo się ładuje? Kliknij tutaj</string>
+
+    <string-array name="Planets">
+        <item>Barbakan Warszawski</item>
+        <item>Bazylika archikatedralna sw Jana Chrzciciela</item>
+        <item>Centrum Nauki Kopernik</item>
+        <item>Cmentarz Powazkowski w Warszawie</item>
+        <item>Fotoplastikon Warszawski</item>
+        <item>Grob Nieznanego Zolnierza</item>
+        <item>Hotel Bristol</item>
+        <item>Kolumna Zygmunta III Wazy</item>
+        <item>Kosciol sw Anny</item>
+        <item>Multimedialny Park Fontann</item>
+        <item>Muzeum Historii Zydow Polskich</item>
+        <item>Muzeum Powstania Warszawskiego</item>
+        <item>Ogrod na dachu Biblioteki Uniwersyteckiej</item>
+        <item>Palac Kultury i Nauki</item>
+        <item>Palac Prezydencki</item>
+        <item>Palac na Wyspie</item>
+        <item>Palac w Wilanowie</item>
+        <item>Palac Belwederski</item>
+        <item>Plac Zamkowy</item>
+        <item>Pomnik Fryderyka Chopina</item>
+        <item>Pomnik Warszawskiej Syrenki</item>
+        <item>Rynek Starego Miasta</item>
+        <item>Stadion Narodowy</item>
+        <item>Stare Miasto</item>
+        <item>Warszawski Ogrod Zoologiczny</item>
+        <item>Zamek Krolewski</item>
+        <item>Zamek Ujazdowski</item>
+    </string-array>
+
+    <string-array name="opisy">
+        <item>Barbakan - najbardziej wysunięta na północ część fortyfikacji miejskich Krakowa. Znajduje się na Plantach, przed Bramą Floriańską, po południowej stronie ul. Basztowej.</item>
+        <item>Bazylika archikatedralna sw. Jana Chrzciciela - katedra archidiecezji warszawskiej znajdująca się na Starym Mieście w Warszawie przy ul. Świętojańskiej 8. Jedna z najstarszych świątyń Warszawy. Pierwotnie nosiła wezwanie Ścięcia św. Jana Chrzciciela, obecnie Męczeństwa św. Jana Chrzciciela.</item>
+        <item>Centrum Nauki Kopernik – centrum nauki znajdujące się przy ul. Wybrzeże Kościuszkowskie 20 w Warszawie, którego celem jest promowanie i popularyzacja komunikacji naukowej.</item>
+        <item>Cmentarz Powązkowski, zwyczajowo Stare Powązki – zabytkowa nekropolia w Warszawie. Położony na terenie obecnej dzielnicy Wola, między ulicami: Okopową, Powązkowską, Tatarską i Jana Ostroroga. Graniczy z kilkoma innymi cmentarzami.</item>
+        <item>Fotoplastikon Warszawski – fotoplastykon znajdujący się w Warszawie w Kamienicy Hoserów w Alejach Jerozolimskich 51. Oddział Muzeum Powstania Warszawskiego.</item>
+        <item>Grób Nieznanego Żołnierza – grób-pomnik na placu marsz. Józefa Piłsudskiego w Warszawie. Ideą warszawskiego Grobu Nieznanego Żołnierza jest uczczenie pamięci poległych w walce o niepodległość.</item>
+        <item>Hotel Bristol – pięciogwiazdkowy hotel w Warszawie znajdujący się przy ul. Krakowskie Przedmieście 42/44, położony w sąsiedztwie Pałacu Prezydenckiego. Jest najdroższym i najstarszym działającym hotelem w Warszawie.</item>
+        <item>Kolumna Zygmunta III Wazy – pomnik króla Zygmunta III Wazy znajdujący się na placu Zamkowym w Warszawie, wzniesiony w latach 1643–1644 z fundacji Władysława IV Wazy według projektu Augustyna Locciego i Constantino Tencalli.</item>
+        <item>Kościół św. Anny – świątynia rzymskokatolicka mieszcząca się przy Krakowskim Przedmieściu 68 w dzielnicy Śródmieście, główny ośrodek duszpasterstwa akademickiego w Warszawie.</item>
+        <item>Multimedialny Park Fontann – kompleks czterech fontann znajdujący się na Skwerze 1 Dywizji Pancernej WP pomiędzy ulicami Boleść, Wybrzeże Gdańskie, Sanguszki i Rybaki na warszawskim Nowym Mieście.</item>
+        <item>Muzeum Historii Żydów Polskich – muzeum znajdujące się w Śródmieściu Warszawy, na Muranowie, dokumentujące wielowiekową historię Żydów w Polsce.</item>
+        <item>Muzeum Powstania Warszawskiego – muzeum historyczne w Warszawie, samorządowa instytucja kultury m.st. Warszawy, utworzone w 1983 jako Muzeum i Archiwum Powstania Warszawskiego.</item>
+        <item>Ogrod na dachu Biblioteki Uniwersyteckiej - Zaprojektowany przez architekta krajobrazu Irenę Bajerską ogród na dachu Biblioteki Uniwersyteckiej w Warszawie został otwarty 12 czerwca 2002 r. Jest 	jednym z największych i najpiękniejszych ogrodów dachowych w Europie. Rozciąga 	się na powierzchni ponad 1 ha. Roślinność zajmuje w nim 5111 m2.</item>
+        <item>Pałac Kultury i Nauki – najwyższy budynek w Polsce, znajdujący się w Śródmieściu Warszawy na placu Defilad 1. Właścicielem gmachu jest miasto stołeczne Warszawa. Pałac jest m.in. siedzibą Rady m.st. Warszawy, która obraduje w Sali Warszawskiej.</item>
+        <item>Pałac Prezydencki – zabytkowy pałac w Śródmieściu Warszawy przy ul. Krakowskie Przedmieście 46/48. W latach 1918–1939 oficjalna siedziba Rady Ministrów i Prezesa Rady Ministrów.</item>
+        <item>Pałac na Wyspie - klasycystyczny pałac w Łazienkach Królewskich w Warszawie. Pierwotnie barokowy pawilon Łaźni (Hippokrene), zbudowany według projektu Tylmana z Gameren w 1683–1689 dla marszałka wielkiego koronnego Stanisława Herakliusza Lubomirskiego, przebudowany w 1772–1793 przez Dominika Merliniego i Jana Chrystiana Kamsetzera dla króla Stanisława Augusta Poniatowskiego.</item>
+        <item>Pałac w Wilanowie – pałac królewski w Warszawie, w Wilanowie Królewskim, barokowy, wzniesiony w latach 1681–1696 dla króla Jana III Sobieskiego i Marii Kazimiery według projektu Augustyna Wincentego.</item>
+        <item>Belweder w Warszawie, pałac Belwederski – pałac znajdujący się przy ul. Belwederskiej 54/56 w Warszawie. Nazwą „Belweder” jest także określany cały zespół pałacowo-parkowy.</item>
+        <item>Plac Zamkowy – plac w Śródmieściu Warszawy położony pomiędzy wylotami ulic: Krakowskiego Przedmieścia, Senatorskiej, Podwala i Świętojańskiej. Został wytyczony w latach 1818–1821 według projektu Jakuba Kubickiego.</item>
+        <item>Pomnik Fryderyka Chopina – secesyjny pomnik Fryderyka Chopina w parku Łazienkowskim w Warszawie, przedstawiający odlaną w brązie postać kompozytora siedzącą pod stylizowaną mazowiecką wierzbą</item>
+        <item>Pomnik Warszawskiej Syrenki (Stare Miasto) - Przedstawia symbol stolicy Polski. Wykonana jest z brązu i mierzy 2,5 m. Został wykonany przez Konstantego Hegla. Oryginalny pomnik przed zniszczeniem ważył 1206 kg, a pracownicy firmy Bracia Łopieńscy wykonali go w 2700 roboczogodzin. Podczas II wojny światowej pomnik został uszkodzony, a w 1951 w odlewni Braci Łopieńskich dorobiono jej oderwany miecz, lewą rękę i tarczę.</item>
+        <item>Rynek Starego Miasta – prostokątny plac o wymiarach 90 na 73 metrów na warszawskim Starym Mieście. Z rynku wychodzi osiem ulic: Celna, Jezuicka, Kamienne Schodki, Krzywe Koło, Nowomiejska, Wąski Dunaj, Zapiecek i Świętojańska.</item>
+        <item>Stadion Narodowy - wielofunkcyjny stadion sportowy znajdujący się przy alei Księcia Józefa Poniatowskiego 1, wybudowany w latach 2008–2011 w niecce byłego Stadionu Dziesięciolecia przed Mistrzostwami Europy UEFA Euro 2012 i oficjalnie otwarty 29 stycznia 2012.</item>
+        <item>Stare Miasto w Warszawie – najstarszy ośrodek miejski Warszawy będący zwartym zespołem architektury zabytkowej, przeważnie z XVII i XVIII wieku o średniowiecznym układzie zabudowy, otoczone pierścieniem murów obronnych z XIV–XVI wieku.</item>
+        <item>Miejski Ogród Zoologiczny w Warszawie – ogród zoologiczny znajdujący się przy ulicy Ratuszowej 1/3 w dzielnicy Praga-Północ w Warszawie. Został otwarty w 1928. Początkowo zajmował powierzchnię 12 ha i posiadał ok. 500 okazów zwierząt.</item>
+        <item>Zamek Królewski w Warszawie – barokowo-klasycystyczny zamek królewski znajdujący się w Warszawie przy placu Zamkowym 4. Pełni funkcje muzealne i reprezentacyjne</item>
+        <item>Zamek Ujazdowski – zamek królewski w Warszawie, w Śródmieściu, na Ujazdowie, przy Trakcie Królewskim. Siedziba Centrum Sztuki Współczesnej.</item>
+    </string-array>
+
+    <string-array name="urls" formatted="false">
+        <item>http://pl.wikipedia.org/wiki/Barbakan_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Bazylika_archikatedralna_%C5%9Bw._Jana_Chrzciciela_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Centrum_Nauki_Kopernik_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Cmentarz_Pow%C4%85zkowski_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Fotoplastikon_Warszawski</item>
+        <item>http://pl.wikipedia.org/wiki/Gr%C3%B3b_Nieznanego_%C5%BBo%C5%82nierza_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Hotel_Bristol</item>
+        <item>http://pl.wikipedia.org/wiki/Kolumna_Zygmunta_III_Wazy_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Anny_w_Warszawie_(%C5%9Ar%C3%B3dmie%C5%9Bcie)</item>
+        <item>http://pl.wikipedia.org/wiki/Multimedialny_Park_Fontann_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Muzeum_Historii_%C5%BByd%C3%B3w_Polskich_POLIN</item>
+        <item>http://pl.wikipedia.org/wiki/Muzeum_Powstania_Warszawskiego</item>
+        <item>http://pl.wikipedia.org/wiki/Biblioteka_Uniwersytecka_w_Warszawie#Ogr.C3.B3d</item>
+        <item>http://pl.wikipedia.org/wiki/Pa%C5%82ac_Kultury_i_Nauki</item>
+        <item>http://pl.wikipedia.org/wiki/Pa%C5%82ac_Prezydencki_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Pa%C5%82ac_Na_Wyspie</item>
+        <item>http://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Wilanowie</item>
+        <item>http://pl.wikipedia.org/wiki/Belweder_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Plac_Zamkowy_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Pomnik_Fryderyka_Chopina_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Pomnik_Warszawskiej_Syrenki_(Stare_Miasto)</item>
+        <item>http://pl.wikipedia.org/wiki/Rynek_Starego_Miasta_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Stadion_Narodowy_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Stare_Miasto_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Biblioteka_Uniwersytecka_w_Warszawie#Ogr.C3.B3d</item>
+        <item>http://pl.wikipedia.org/wiki/Zamek_Kr%C3%B3lewski_w_Warszawie</item>
+        <item>http://pl.wikipedia.org/wiki/Zamek_Ujazdowski_w_Warszawie</item>
+    </string-array>
+
+
+
+</resources>
